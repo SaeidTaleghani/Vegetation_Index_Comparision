@@ -105,26 +105,6 @@ The analysis focuses on the **Caspian provinces** of northern Iran — a region 
 
 ##  Comparison Results
 
-The repository includes two comparison figures:
-
-### **Comparison 1**
-- Landsat NDVI  
-- Sentinel NDVI  
-- Landsat EVI  
-- Sentinel EVI  
-
-### **Comparison 2**
-- Landsat SAVI  
-- Sentinel SAVI  
-- Landsat MSAVI  
-- Sentinel MSAVI  
-
-These visualizations highlight differences in:
-
-- Spatial resolution  
-- Sensor spectral response  
-- Index sensitivity  
-- Vegetation structure across the region  
 
 ---
 
