@@ -3,7 +3,9 @@
 # Vegetation Index Comparison Using Landsat 8 and Sentinel-2  
 ### Caspian Provinces — Multi-Sensor Analysis & Visualization
 
-This repository contains a complete Python workflow for computing, mosaicking, stretching, and visualizing vegetation indices from **Landsat 8 (OLI)** and **Sentinel-2 (MSI)** imagery across the **Caspian provinces of Iran**.  
+This repository contains a complete Python workflow for computing, mosaicking, stretching, and visualizing vegetation indices from **Landsat 8 (OLI)** and **Sentinel-2 (MSI)** imagery across the **Caspian provinces of Iran**. 
+
+
 ![Study Area](StudyArea.png)
 
 The project includes:
@@ -17,8 +19,7 @@ The project includes:
 ---
 
 ##  Project Motivation
-
-During my Teaching Assistant experience at the **University of Waterloo**, I observed how effective visualizations help students intuitively grasp complex geospatial concepts.  
+ 
 This project aims to:
 
 - Demonstrate how different vegetation indices respond to the same landscape  
