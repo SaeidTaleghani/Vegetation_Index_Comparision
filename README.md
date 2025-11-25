@@ -75,19 +75,32 @@ The analysis focuses on the **Caspian provinces** of northern Iran — a region 
 
 ---
 
-##  Workflow Overview
+## Workflow Summary
 
-1. **Load Landsat 8 and Sentinel-2 scenes**  
-2. **Merge multi-date images** using raster mosaicking  
-3. **Clip to Caspian provinces boundary**  
-4. **Compute NDVI, EVI, SAVI, MSAVI**  
-5. **Apply 2–98% percentile stretch**  
-   - Enhances visualization  
-   - Preserves original numeric values  
-6. **Generate comparison panels**  
-   - 2×2 layouts  
-   - Landsat vs. Sentinel for each index  
-7. **Export figures as PNG for sharing/publication**
+### **1. Data Preparation** 
+- Load regional boundary shapefile
+- Filter Landsat 8 & Sentinel-2 collections (2024 growing season)
+- Apply cloud cover masking and geometric clipping
+
+### **2. Vegetation Indices**
+- Compute **NDVI, EVI, SAVI, MSAVI** 
+- Generate **combination index** (average of all indices)
+- Create median composites across time series
+
+### **3. Data Export**
+- Export median composites → **GeoTIFF format** 
+- Transfer to local storage for processing
+- Mosaic multiple tiles into unified rasters
+
+### **4. Visualization**
+- Apply **2–98% percentile stretching** for optimal contrast
+- Overlay on **OpenStreetMap basemaps**
+- Create **2×2 comparison panels** (Landsat vs Sentinel-2)
+
+### **5. Analysis & Output**
+- Generate **publication-ready figures**
+- Produce multi-sensor comparison maps
+- High-resolution PNG exports (300 DPI)
 
 ---
 
