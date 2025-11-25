@@ -98,7 +98,6 @@ The analysis focuses on the **Caspian provinces** of northern Iran — a region 
 - Create **2×2 comparison panels** (Landsat vs Sentinel-2)
 
 ### **5. Analysis & Output**
-- Generate **publication-ready figures**
 - Produce multi-sensor comparison maps
 - High-resolution PNG exports (300 DPI)
 
