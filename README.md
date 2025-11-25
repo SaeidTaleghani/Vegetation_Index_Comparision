@@ -8,8 +8,8 @@ The project includes:
 - Multi-scene mosaicking to generate unified regional composites  
 - Calculation of four vegetation indices: **NDVI, EVI, SAVI, MSAVI**  
 - Percentile-based stretching (2–98%) for improved visualization  
-- High-resolution comparison maps (2×2 panels) for LinkedIn-ready presentation  
-- Clean, replicable Python code using **Rasterio, NumPy, Matplotlib**
+- High-resolution comparison maps (2×2 panels) 
+- Clean, replicable Python code 
 
 ---
 
