@@ -5,9 +5,6 @@
 
 This repository contains a complete Python workflow for computing, mosaicking, stretching, and visualizing vegetation indices from **Landsat 8 (OLI)** and **Sentinel-2 (MSI)** imagery across the **Caspian provinces of Iran**. 
 
-
-![Study Area](StudyArea.png)
-
 The project includes:
 
 - Multi-scene mosaicking to generate unified regional composites  
@@ -30,6 +27,8 @@ This project aims to:
 
 ##  Study Area  
 The analysis focuses on the **Caspian provinces** of northern Iran — a region with diverse forests, croplands, and coastal ecosystems. The variability in vegetation makes it an ideal area for evaluating multi-sensor vegetation indices.
+
+![Study Area](StudyArea.png)
 
 ---
 
