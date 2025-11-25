@@ -1,5 +1,3 @@
-# Vegetation_Index_Comparision
-
 # Vegetation Index Comparison Using Landsat 8 and Sentinel-2  
 ### Caspian Provinces — Multi-Sensor Analysis & Visualization
 
