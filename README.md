@@ -105,6 +105,12 @@ The analysis focuses on the **Caspian provinces** of northern Iran — a region 
 
 ##  Comparison Results
 
+![comparison1](comparison1.png)
+
+
+![comparison2](comparison2.png)
+
+
 
 ---
 
