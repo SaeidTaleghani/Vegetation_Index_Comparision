@@ -4,7 +4,7 @@
 ### Caspian Provinces — Multi-Sensor Analysis & Visualization
 
 This repository contains a complete Python workflow for computing, mosaicking, stretching, and visualizing vegetation indices from **Landsat 8 (OLI)** and **Sentinel-2 (MSI)** imagery across the **Caspian provinces of Iran**.  
-![Study Area](Study Area.png)
+![Study Area](StudyArea.png)
 
 The project includes:
 
